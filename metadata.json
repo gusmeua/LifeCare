@@ -1,0 +1,6 @@
+{
+  "name": "LifeCare",
+  "description": "تطبيق متكامل لمتابعة الصحة للسكري، الضغط، الربو والقلب، مع تنبيهات الطوارئ، التواصل مع الطبيب والعائلة وتحليل القياسات بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
